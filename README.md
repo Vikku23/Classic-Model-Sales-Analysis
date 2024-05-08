@@ -5,7 +5,7 @@ This repository contains a comprehensive data visualization report created using
 
 Insights Highlighted in the Report:
 
-#Profit Trends#: The report showcases profit trends over the years, highlighting that the company earned the most profit in 2004 ($1.81 million), followed by $1.32 million in 2003 and $0.69 million in 2005.
+#Profit Trends: The report showcases profit trends over the years, highlighting that the company earned the most profit in 2004 ($1.81 million), followed by $1.32 million in 2003 and $0.69 million in 2005.
 
 #Best-Selling Product#: Classic cars emerge as the best-selling product category, generating $3.9 million in sales, constituting 40% of total sales.
 
